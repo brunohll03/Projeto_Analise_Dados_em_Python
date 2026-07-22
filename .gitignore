@@ -1,0 +1,9 @@
+# Arquivo responsável por definir quais arquivos e pastas
+# não devem ser versionados pelo Git.
+
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/processed/*
