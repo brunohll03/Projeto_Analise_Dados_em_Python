@@ -1,0 +1,6 @@
+# Dependências utilizadas no projeto de análise e manipulação de dados.
+
+pandas
+numpy
+matplotlib
+jupyter
