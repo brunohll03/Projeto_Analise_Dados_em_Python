@@ -89,8 +89,9 @@ Geração de informações
        v
 Arquivo CSV tratado
 
-# Técnicamente
+# Técnicamente 
 
+```text
 CSV (Raw)
    |
    v
