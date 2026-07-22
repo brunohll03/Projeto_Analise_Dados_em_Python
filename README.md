@@ -66,7 +66,7 @@ Com o ambiente virtual ativado:
 python main.py
 ```
 
-### Fluxo do Projeto
+## Fluxo do Projeto
 
 ```text
 Arquivo CSV bruto
@@ -90,7 +90,7 @@ Geração de informações
 Arquivo CSV tratado
 ```
 
-# Técnicamente 
+### Técnicamente 
 
 ```text
 CSV (Raw)
