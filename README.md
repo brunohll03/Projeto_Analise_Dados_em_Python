@@ -66,3 +66,38 @@ Com o ambiente virtual ativado:
 python main.py
 ```
 
+## Fluxograma
+
+Fluxo do Projeto
+
+Arquivo CSV bruto
+       ↓
+Carregamento dos dados
+       ↓
+Limpeza e tratamento
+       ↓
+Padronização dos dados
+       ↓
+Análise exploratória (EDA)
+       ↓
+Geração de informações
+       ↓
+Arquivo CSV tratado
+
+# Técnicamente
+
+CSV (Raw)
+   ↓
+carregar_dados()
+   ↓
+DataFrame
+   ↓
+limpar_dados()
+   ↓
+DataFrame Limpo
+   ↓
+analisar_dados()
+   ↓
+Análise Exploratória (EDA)
+   ↓
+CSV (Processed)
