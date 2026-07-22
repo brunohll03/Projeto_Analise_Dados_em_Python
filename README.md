@@ -88,6 +88,7 @@ Geração de informações
        |
        v
 Arquivo CSV tratado
+```
 
 # Técnicamente 
 
@@ -114,3 +115,4 @@ Análise Exploratória (EDA)
    |
    v
 CSV (Processed)
+```
